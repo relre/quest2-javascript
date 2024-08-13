@@ -2,7 +2,7 @@
 
 | Source                                                                               | Solutions                                                                                                                                                    |
 | :----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [`55d5da66a0e378b8bc0000c6`](https://www.codewars.com/kata/55d5da66a0e378b8bc0000c6) | [<img src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924076/javascript_ehszr7.svg" alt="JavaScript" title="JavaScript" width="50" />](a01.js) |
+| [`55d5da66a0e378b8bc0000c6`](https://www.codewars.com/kata/55d5da66a0e378b8bc0000c6) | [<img src="https://res.cloudinary.com/rascaltwo/image/upload/v1631924076/javascript_ehszr7.svg" alt="JavaScript" title="JavaScript" width="50" />](s01.js) |
 
 <!-- INFO TABLE END -->
 
