@@ -5,15 +5,7 @@
  * @returns {string} The result URL.
  */
 function addOrChangeUrlParameter (url, param) {
-  // TODO: Make something awesome
-  const key = param.split("=")[0];
-  const regex = new RegExp(`${key}=[^&]+`);
-  
-  const replaced = url.replace(regex, param);
-  if(replaced !== url) return replaced
-  
-  const seperator = url.includes("?") ? "&" : "?"
-  
-  return `${url}${seperator}${param}`
+  url = url.replace(new RegExp(param.split("=")[0]+"=[^&]+"), param);
+  return url + (url.indexOf(param) >= 0 ? "" : (url.indexOf("?") >= 0 ? "&" : "?") + param)
   
 }
