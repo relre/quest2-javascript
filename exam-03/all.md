@@ -8,3 +8,4 @@ q6 find the position = https://www.codewars.com/kata/660323a44fe3e41cff41e4e9
 
 q7 mastermind = https://www.codewars.com/kata/58a848258a6909dd35000003
 
+q8 numbertoord = https://www.codewars.com/kata/52dca71390c32d8fb900002b
