@@ -1,6 +1,6 @@
 q1 infinityloop = https://www.codewars.com/kata/572af273a3af3836660014a1/
 
-q2 sort it =
+q2 sort it = https://www.codewars.com/kata/572df796914b5ba27c000c90
 
 q3 Ackermann = https://www.codewars.com/kata/53ad69892a27079b34000bd9
 
