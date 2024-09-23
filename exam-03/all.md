@@ -1,3 +1,7 @@
+q1 infinityloop = https://www.codewars.com/kata/572af273a3af3836660014a1/
+
+q2 sort it =
+
 q3 Ackermann = https://www.codewars.com/kata/53ad69892a27079b34000bd9
 
 q4 rot13 = https://www.codewars.com/kata/530e15517bc88ac656000716
